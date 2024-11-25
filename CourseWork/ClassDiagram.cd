@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyVector&lt;T&gt;">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAgAAAAIsAIAASAAEAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalCounter">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAAACAIUAMAAQAIAACAACAAAISgQAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stopwatch">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABgBQQgAAAYAAggAAAAAACAAAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaceResults">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAhAIBQAAAAAAAACAAAAAAAAAAAQCAABAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
